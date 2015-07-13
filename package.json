@@ -7,9 +7,8 @@
     "test": "mocha"
   },
   "keywords": [
-    "pause",
-    "resume",
-    "resumable"
+    "heredoc",
+    "nowdoc"
   ],
   "author": "asmblah",
   "license": "MIT",
