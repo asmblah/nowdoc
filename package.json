@@ -1,6 +1,6 @@
 {
   "name": "nowdoc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Heredocs, with extras",
   "main": "index.js",
   "scripts": {
